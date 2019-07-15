@@ -1,0 +1,19 @@
+{
+  "name": "deployment",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudassirsumar/ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudassirsumar/ecommerce/issues"
+  },
+  "homepage": "https://github.com/mudassirsumar/ecommerce#readme"
+}
